@@ -1,24 +1,33 @@
 # Hi, I'm Yiheng 👋
 
-**Quant Researcher · CS @ Tsinghua · Beijing**
+**CS @ Tsinghua · Quant Research Intern · Beijing**
 
-I work on structured-factor models and LLM-driven alpha signals for A-share markets, and study the failure modes of AI research agents.
+I build alpha factor models for A-share markets and study failure modes of LLM-based research agents.
 
 ---
 
-## Research
+## Research Projects
 
-| Project | Description | Status |
-|---------|-------------|--------|
-| [A2I](https://github.com/Yiheng-Gan/A2I) | **The Evaluator Bottleneck** — failure study of AI research agents (AAAI 2026) | In review |
-| [IA6](https://github.com/Yiheng-Gan/IA6) | **LLM-from-Disclosures** — MD&A text → CSI300/500 alpha factor (ICAIF 2026) | In progress |
-| [label2-factor-research](https://github.com/Yiheng-Gan/label2-factor-research) | LightGBM / NN models on residualized labels for A-share quant research | Active |
+### Quantitative Finance
+| Repo | Description |
+|------|-------------|
+| [label2-factor-research](https://github.com/Yiheng-Gan/label2-factor-research) 🔒 | LightGBM / NN alpha on residualized labels — CSI300/500 factor pipeline |
+| [2026-05-cross-sectional-factor-model](https://github.com/Yiheng-Gan/2026-05-cross-sectional-factor-model) | Cross-sectional return prediction with MLP + Attention for A-shares |
+| [IA6](https://github.com/Yiheng-Gan/IA6) 🔒 | **LLM-from-Disclosures** — MD&A text → alpha signal (ICAIF 2026, in progress) |
+
+### AI Research
+| Repo | Description |
+|------|-------------|
+| [A2I](https://github.com/Yiheng-Gan/A2I) 🔒 | **The Evaluator Bottleneck** — failure study of LLM research agents (AAAI 2026) |
+| [ic-design-sft](https://github.com/Yiheng-Gan/ic-design-sft) | Self-Instruct SFT dataset builder for IC design vertical domain |
+
+> 🔒 = private until publication
 
 ---
 
 ## Stack
 
-`Python` · `LightGBM` · `PyTorch` · `Anthropic API` · `LaTeX`
+`Python` · `LightGBM` · `PyTorch` · `Anthropic Claude API` · `LaTeX`
 
 ---
 
